@@ -1,0 +1,5 @@
+﻿  ClientBeta.cpp
+c:\users\débora\source\repos\clientbeta\clientbeta\clientbeta.cpp(85): warning C4244: '=': conversão de 'SOCKET' para 'int', possível perda de dados
+c:\users\débora\source\repos\clientbeta\clientbeta\clientbeta.cpp(112): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+c:\users\débora\source\repos\clientbeta\clientbeta\clientbeta.cpp(140): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  ClientBeta.vcxproj -> C:\Users\Débora\source\repos\ClientBeta\x64\Debug\ClientBeta.exe
